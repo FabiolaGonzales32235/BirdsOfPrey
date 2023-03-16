@@ -1,0 +1,25 @@
+[
+    {
+        "liga de villanos": {
+            "locacion": "Estados Unidos",
+            "nombre": "Birds of Prey",
+            "fundada": "1996",
+            "base secreta": "Gotham City",
+            "activa o inactiva": "Activa",
+            "miembros": {
+                "Harley Quinn": {
+                    "id": "1",
+                    "años": "33",
+                    "identidad secreta": "Harleen Frances Quinzel",
+                    "poderes": ["Agil", "eficaz", "manipuladora", "lucahdora"]
+                },
+                "Poison Ivy":{
+                    "id": "2",
+                    "años": "27",
+                    "identidad secreta": "Pamela Lillian Isley",
+                    "poderes": ["manipulacion vegetal", "inmune al veneno", "besos con toxinas", "inteligente"]
+                }
+            }
+        }
+    }
+]
